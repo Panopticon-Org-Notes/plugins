@@ -7,5 +7,14 @@
     "repo": "YuryBogdanov/panopticon-week",
     "categories": ["planning"],
     "icon": "M3 4h14v13H3zM3 8h14M7 2.5v3M13 2.5v3M7 12l2 2 4-4"
+  },
+  {
+    "id": "canvas",
+    "name": "Холст",
+    "author": "Yury Bogdanov",
+    "description": "Mindmap org-файла или одной ветки: дерево заголовков правится прямо на карте — узлы, переименование, перестановка, цвет ветки. Файл остаётся обычным Org.",
+    "repo": "Panopticon-Org-Notes/canvas",
+    "categories": ["view"],
+    "icon": "M10 7.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM12.5 10h2.5M5 10h2.5M15 5.5h2.5v3H15zM15 11.5h2.5v3H15zM2.5 8.5H5v3H2.5z"
   }
 ]
