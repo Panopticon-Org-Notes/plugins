@@ -1,0 +1,11 @@
+[
+  {
+    "id": "week",
+    "name": "Неделя",
+    "author": "Yury Bogdanov",
+    "description": "План недели и итоги: 3–5 целей-ориентиров, оценки, история недель. Всё — в weeks.org.",
+    "repo": "YuryBogdanov/panopticon-week",
+    "categories": ["planning"],
+    "icon": "M3 4h14v13H3zM3 8h14M7 2.5v3M13 2.5v3M7 12l2 2 4-4"
+  }
+]
