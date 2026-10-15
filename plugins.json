@@ -12,7 +12,7 @@
     "id": "canvas",
     "name": "Холст",
     "author": "Yury Bogdanov",
-    "description": "Mindmap org-файла или одной ветки: дерево заголовков правится прямо на карте — узлы, переименование, перестановка, цвет ветки. Файл остаётся обычным Org.",
+    "description": "Mindmap org-файла или ветки и свободный холст .canvas (JSON Canvas, как в Obsidian): заметки, живые карточки заголовков, файлы, ссылки, группы, стрелки, цвета.",
     "repo": "Panopticon-Org-Notes/canvas",
     "categories": ["view"],
     "icon": "M10 7.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM12.5 10h2.5M5 10h2.5M15 5.5h2.5v3H15zM15 11.5h2.5v3H15zM2.5 8.5H5v3H2.5z"
